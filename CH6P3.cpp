@@ -1,6 +1,6 @@
 /*
 File Name: CH6P3.cpp
-Github URL:
+Github URL: https://github.com/clk2039/CH6P3.git
 Programmer: Kit Miller
 Date: December 2025
 Requirements: Write a modular, procedural program that creates a table showing the temperature in Celcius for Fahrenheit temperatures
